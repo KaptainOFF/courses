@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94154d61-0848-44cd-bb7f-4e7380eb7846" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courses/templates/courses/course_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lessons_project.iml" afterPath="$PROJECT_DIR$/.idea/lessons_project.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/courses/admin.py" afterPath="$PROJECT_DIR$/courses/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/courses/urls.py" afterPath="$PROJECT_DIR$/courses/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/courses/views.py" afterPath="$PROJECT_DIR$/courses/views.py" />
-    </list>
+    <list default="true" id="94154d61-0848-44cd-bb7f-4e7380eb7846" name="Default" comment="" />
     <ignored path="lessons_project.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,7 +105,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="10" />
-    <option name="y" value="-688" />
+    <option name="y" value="80" />
     <option name="width" value="1356" />
     <option name="height" value="686" />
   </component>
@@ -392,8 +383,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="-688" width="1356" height="686" extended-state="0" />
-    <editor active="true" />
+    <frame x="10" y="80" width="1356" height="686" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13953489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
